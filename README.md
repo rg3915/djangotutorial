@@ -1,2 +1,2 @@
-# djangotutorial
-Django Tutorial Test
+# Mini Curso de Django Básico
+
